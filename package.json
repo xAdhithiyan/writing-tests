@@ -6,7 +6,7 @@
   "type": "module",
   "scripts": {
     "test": "jest",
-    "watch": "jest --watch *.js"
+    "watch": "jest --watchAll"
   },
   "keywords": [],
   "author": "",
